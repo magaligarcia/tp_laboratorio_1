@@ -1,5 +1,7 @@
 /*
  ============================================================================
+ Magali Garcia 1E
+
 d-Operadores Logicos
 Aplicando el concepto de Operadores Lógicos con valores booleanos en el condicional:
 Solicitar un número al usuario

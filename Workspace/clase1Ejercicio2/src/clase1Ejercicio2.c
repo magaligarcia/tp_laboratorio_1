@@ -1,10 +1,9 @@
 /*
  ============================================================================
- Name        : clase1Ejercicio2.c
- Author      : 
- Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+Magali Garcia 1E
+
+Entrada/salida
+Pedir el sueldo al usuario. Sumarle un 10% e informarle cuál será su sueldo con aumento
  ============================================================================
  */
 
